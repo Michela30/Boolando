@@ -51,9 +51,9 @@ header{
     color: white;
     padding: 15px;
     width: 100%;
-    /* position: fixed;
+    position: fixed;
     left: 0;
-    top: 0; */
+    top: 0;
 }
 
 .my-header-row{
@@ -79,6 +79,10 @@ header img{
 /* 
 MAIN
 */
+
+main{
+    margin-top: 60px;
+}
 
 .my-main-row{
     display: flex;
@@ -115,6 +119,17 @@ MAIN
     padding: 5px 15px;
 }
 
+.second-img{
+    display: none;
+}
+
+.model-box:hover .second-img{
+    display: block;
+}
+
+.model-box:hover .first-img{
+    display: none;
+} 
 
 /* 
 FOOTER
@@ -166,12 +181,12 @@ DEBUG
     background-color: aqua;
 }
 
-/* .debug .img{
+.debug .img{
     background-color: blueviolet;
     width: 100%;
     height: 400px;
 } */
 
-/* .debug footer{
+.debug footer{
     height: 100px;
-} */
+}
