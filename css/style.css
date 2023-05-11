@@ -15,3 +15,54 @@
     margin: 0 auto;
     width: 100%;
 }
+
+/* 
+HEADER
+*/
+
+header{
+    background-color: #FF6900;
+    color: white;
+    padding: 15px;
+    width: 100%;
+    /* position: fixed;
+    left: 0;
+    top: 0; */
+}
+
+.my-header-row{
+    display: flex;      
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+nav ul > li {
+    display: inline-block;
+    list-style-type: none;
+    font-weight: bold;
+    padding: 5px;
+}
+
+header img{
+    width: 120px;
+}
+
+
+/* 
+MAIN
+*/
+
+
+
+/* 
+FOOTER
+*/
+
+
+
+
+/* 
+DEBUG
+*/
