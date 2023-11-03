@@ -1,21 +1,8 @@
-# template-html-css-base
+# Boolando
 
-Esercizio di oggi: Boolando
-nome repo: html-css-boolando
+Riproduzione del sito web Zalando, con le tecnologie di Html e Css
 
-Descrizione
-Ci ispiriamo al sito di Zalando per riprodurre il layout nello screenshot.
-Per ogni prodotto sono fornite 2 immagini: la prima sarà visualizzata all'apertura della pagina, la seconda sarà visualizzata al posto della prima, quando il cursore del mouse va in hover sulla card.
-Sono presenti anche un header in posizione fixed e un footer.
 
-Regole da usare
-Tutte le regole che abbiamo visto fino ad oggi.
-Servirà qualche posizionamento particolare? Ai posteri l'ardua sentenza!
 
-Consigli:
-Analizzate prima il layout solo con i commenti, poi passate ai blocchi colorati.
-Solo se i blocchi colorati funzionano passiamo al particolare...
+https://github.com/Michela30/html-css-boolando/assets/128288972/d75abbba-4b2e-4ed1-9a03-c4edb30a5292
 
-Bonus
-All'hover sul cuoricino, questo diventa rosso
-Buon lavoro!
