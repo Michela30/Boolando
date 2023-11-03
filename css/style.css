@@ -52,6 +52,7 @@ header{
     padding: 15px;
     width: 100%;
     position: fixed;
+    z-index: 100;
     left: 0;
     top: 0;
 }
@@ -130,6 +131,21 @@ main{
 .model-box:hover .first-img{
     display: none;
 } 
+
+.red-heart{
+    display: none;
+    color: red;
+}
+
+.heart-section .heart:hover {
+    display: block;
+    color: red;
+}
+
+.heart-section .red-heart:hover {
+    display: none;
+}
+
 
 /* 
 FOOTER
